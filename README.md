@@ -1,5 +1,5 @@
 #PASSWORT CHECKER
 
 ## Usage
-`python3 args`
+Run `python3 checkmypass.py args` in your commandline
 
